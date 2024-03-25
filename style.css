@@ -84,6 +84,9 @@ font-family: 'Fraunces';
 button:hover{
     background: hsl(158, 36%, 16%);
 }
+.mobileimg{
+    display: none;
+}
 @media (max-width:376px){
     .container{
         flex-direction: column;
