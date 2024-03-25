@@ -111,4 +111,7 @@ button:hover{
     button{
         margin-bottom: 1rem;
     }
+    .mobileimg{
+        display:inline-block;
+    }
 }
